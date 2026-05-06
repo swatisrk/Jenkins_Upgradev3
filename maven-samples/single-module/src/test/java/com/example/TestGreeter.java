@@ -40,7 +40,7 @@ public class TestGreeter {
     asserttrue(true);
   }
 
-    @Test
+  @Test
   public void greetShouldIncludeGreetingMessage() {
     String someone = "World, Thanks you making me Happy";
 
